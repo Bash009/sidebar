@@ -1,7 +1,7 @@
 export const tt = [
   {
     name: 'John Kavanagh',
-    desg: 'MMA coach',
+    desg: 'MMA Coach',
     img: 'https://avatars.githubusercontent.com/u/48284318?v=4',
   },
   {
